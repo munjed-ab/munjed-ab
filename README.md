@@ -1,53 +1,5 @@
 ## Hi there 👋
 
-### 3D ASCII Experiment
-[
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                            ###                                                                 
-                                                                                       ########                                                                 
-                                                                    ++           ##########@###                                                                 
-                                                                    +++    ######@@@@@@@@@@@                                                                    
-                                                                   +++@@@@@@@@@@@@@@@@@@@@@@                                                                    
-                                                                  +++*@@@@@@@@@@@@@@@@@@@@@                                                                     
-                                                                  ++++ ****%%%%%@@@@@@@@@@@                                                                     
-                                                                    ++   **** %%%%%%%%%%%%@%%%                                                                  
-                                                                            ***   %%%%%%%%%%%                                                                   
-                                                                              ****    %%%%%%%                                                                   
-                                                                                 ***      %%                                                                    
-                                                                                   ****                                                                         
-                                                                                     ****                                                                       
-                                                                                        **                                                                      
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-                                                                                                                                                                
-](https://jid.github.io/ascii-3d/loading.html)                                                                                                                                                                
-
-
 <!--
 **munjed-ab/munjed-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
